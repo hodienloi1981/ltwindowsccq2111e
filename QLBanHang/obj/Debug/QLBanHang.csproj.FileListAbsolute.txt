@@ -1,0 +1,13 @@
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\bin\Debug\QLBanHang.exe.config
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.pdb
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.frm.frmMain.resources
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.frm.frmBai1.resources
+C:\Users\DIENLOI\Desktop\HoDienLoi\QLBanHang\obj\Debug\QLBanHang.frm.frmBai2.resources
